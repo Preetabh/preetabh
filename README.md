@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Preetabh Awasthi</h1>
-<h3 align="center">Full Stack Developer | BCA Student | MERN & Next.js Enthusiast</h3>
+# <h1 align="center">Hi 👋, I'm Preetabh Awasthi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real-Time+Web+Applications;MERN+%7C+Next.js+%7C+PostgreSQL+%7C+Prisma;Always+Learning+and+Building+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack Developer | BCA Student | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/preetabh">
@@ -12,131 +9,118 @@
   <a href="https://www.linkedin.com/in/preetabh-awasthi-070836290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/leptop_tz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="mailto:preetabhup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preetabh&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/preetabh?style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently building **full stack and real-time web applications**
-- 🌱 Exploring **Next.js, WebRTC, Socket.io, and cloud-based deployment**
-- 🧠 Completed **DSA in C++**, especially **Dynamic Programming** and **Trees**
-- 📋 Comfortable working in **Agile workflows** using **Jira**
-- 💬 Ask me about **MERN Stack, Next.js, PostgreSQL, Prisma, Real-Time Apps, Bootstrap, Tailwind CSS, Vite, and Cloudinary**
-- ⚡ I enjoy **solving coding challenges** and building practical products
+```js
+const preetabh = {
+  role: "Full Stack Developer",
+  education: "BCA Student (2024–2027)",
+  location: "India 🇮🇳",
+  techStack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma"],
+  currentlyLearning: ["Docker", "Redis", "System Design", "Microservices"]
+};
+```
 
----
-
-## 🌐 Web Development Expertise
-
-- ✅ Responsive UI design
-- ✅ REST API integration
-- ✅ Authentication & authorization
-- ✅ CRUD application development
-- ✅ Real-time communication with Socket.io
-- ✅ Media/file handling with Cloudinary
-- ✅ Database design with MongoDB & PostgreSQL
-- ✅ ORM workflows using Prisma
-- ✅ Deployment with Vercel
-- ✅ Component-based frontend architecture
+- 🔭 Currently building full-stack and real-time web applications
+- 🌱 Learning Docker, Redis, System Design, Microservices
+- 💬 Ask me about React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma
+- ⚡ Passionate about clean code, scalable architecture, and performance optimization
+- 🎯 Open to collaborations, freelance projects, and full-time opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,html,css,js" />
-</p>
+**Frontend:**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,typescript,javascript" />
 
-### ⚙️ Backend & Real-Time
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
-</p>
+**Backend:**
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<p>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
+**Database:**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" />
 
-### 🧩 Programming & DSA
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
-</p>
+**DevOps:**
+<img src="https://skillicons.dev/icons?i=docker,vercel,netlify,nginx" />
 
-<p>
-  <img src="https://img.shields.io/badge/DSA-Dynamic_Programming_|_Trees-orange?style=for-the-badge" />
-</p>
+**Languages:**
+<img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python" />
 
-### 🔧 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+**Tools:**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" />
 
 ---
 
-## 💡 Featured Projects
+## 🚧 Currently Working On
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **AI Code Editor & Code Reviewer** | In-browser code editor that uses AI to review code, detect issues, and suggest fixes | React, Node.js, AI APIs |
-| **AI-Powered Bug Resolver** | Tool that analyzes logs/errors and proposes AI-generated debugging solutions | MERN, AI Integration |
-| **Commerce Website** | Full-featured e-commerce platform with product flow and user experience focus | MERN Stack |
-| **Uber-like Clone** | Real-time ride-hailing app with live tracking and future WebRTC integration | React, Node.js, Socket.io |
-| **Slack Clone** | Team chat app with clean UI and reliable real-time messaging sync | MERN, Socket.io |
-
-> 🔜 **Next Goal:** Expand real-time features using **Socket.io** and **WebRTC**, and migrate selected projects to **Next.js** for better performance and SEO.
+- AI Code Reviewer
+- Slack Clone
+- E-Commerce Platform
+- Daily DSA Practice
 
 ---
 
-## 🧠 DSA Progress
+## 🌟 Projects
 
-| Topic | Focus Areas | Status |
-|------|-------------|--------|
-| **Dynamic Programming** | Knapsack, LIS, LCS, Subset Sum, DP on Grids | ✅ Completed |
-| **Trees** | Binary Trees, BST, Traversals, Height, Diameter, LCA | ✅ Completed |
-| **Graphs** | BFS, DFS, Shortest Path | ⏳ Planned |
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <b>AI Code Reviewer</b><br/>
+      <sub>AI-powered code review and bug detection in-browser.<br/>
+      <b>Stack:</b> React, Node.js, MongoDB, CodeMirror, AI APIs</sub>
+    </td>
+    <td>
+      <b>Slack Clone</b><br/>
+      <sub>Team collaboration app with channels, DMs, and file sharing.<br/>
+      <b>Stack:</b> MERN, Socket.io, Redis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>E-Commerce Platform</b><br/>
+      <sub>Online store with payments, admin panel, and analytics.<br/>
+      <b>Stack:</b> Next.js, PostgreSQL, Prisma, Stripe, Redis</sub>
+    </td>
+    <td>
+      <b>Daily DSA Practice</b><br/>
+      <sub>Consistent problem solving and algorithm practice.<br/>
+      <b>Stack:</b> C++, LeetCode, CodeChef</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetabh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetabh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8" height="180" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=preetabh&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetabh&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=preetabh&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 2026 Goals
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetabh&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+- [ ] Build and deploy 10+ production-ready apps
+- [ ] Master advanced system design concepts
+- [ ] Contribute to open source projects
+- [ ] Deepen expertise in cloud and DevOps
+- [ ] Improve DSA and problem-solving skills
 
 ---
 
@@ -149,9 +133,6 @@
   <a href="https://github.com/preetabh">
     <img src="https://img.shields.io/badge/GitHub-preetabh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/leptop_tz">
-    <img src="https://img.shields.io/badge/Twitter-@leptop_tz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="mailto:preetabhup@gmail.com">
     <img src="https://img.shields.io/badge/Email-preetabhup@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -159,11 +140,12 @@
 
 ---
 
-## 📌 Developer Note
+## 💼 Open for Opportunities
 
-- Open to **internships**, **freelance work**, and **collaboration opportunities**
-- Passionate about **building scalable products** and improving as a **web developer**
+I'm actively seeking **internships**, **freelance projects**, and **full-time roles** in **Full Stack Development**.
+
+[![Hire Me](https://img.shields.io/badge/Hire_Me-Available-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:preetabhup@gmail.com)
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
