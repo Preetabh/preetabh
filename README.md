@@ -214,7 +214,7 @@ const preetabh = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preetabh&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetabh&theme=github_dark"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
