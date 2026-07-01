@@ -282,4 +282,3 @@ const preetabh = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 ```
 
-**Note:** For the Snake animation to work, enable GitHub Actions in your repo settings and add the [platane/snk](https://github.com/Platane/snk) workflow. Also update `preetabh` in all URLs if that's not your actual GitHub username.
