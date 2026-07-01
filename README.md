@@ -12,9 +12,9 @@
 
 - 🔭 Currently building **full stack & real-time web applications**
 - 🌱 Deepening my skills in **Next.js, WebRTC, Socket.io, and Cloud Technologies**
-- 🧠 Strengthening **DSA fundamentals in C++**, focused on **Dynamic Programming** and **Trees**
+- 🧠 Completed core **DSA in C++** — **Dynamic Programming** and **Trees**
 - 📋 Comfortable working with **Agile workflows** using **Jira**
-- 💬 Ask me about **MERN Stack, Next.js, Real-Time Apps, Bootstrap, Tailwind CSS, Vite, and Cloudinary**
+- 💬 Ask me about **MERN Stack, Next.js, PostgreSQL, Prisma, Real-Time Apps, Bootstrap, Tailwind CSS, Vite, and Cloudinary**
 - ⚡ Fun fact: I love solving coding challenges and exploring new tech!
 
 ---
@@ -35,6 +35,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -53,23 +55,26 @@
 
 ---
 
-## 💡 Featured Projects
+## 💡 Major Projects
 
+- 🧑‍💻 **AI Code Editor & Code Reviewer** — In-browser code editor that uses AI to review code, flag issues, and suggest bug fixes automatically
+- 🐛 **AI-Powered Bug Resolver** — Tool that analyzes code errors/logs and proposes AI-generated fixes to speed up debugging
 - 🛒 **Commerce Website** — Full-featured e-commerce platform built with the MERN stack
-- 🚕 **Uber-like Clone** — Real-time ride-hailing app concept (great foundation for adding Socket.io + WebRTC live tracking/calling)
+- 🚕 **Uber-like Clone** — Real-time ride-hailing app with live tracking, built as a foundation for Socket.io + WebRTC integration
+- 💬 **Slack Clone** — Real-time team messaging app modeled after one of the most widely used workplace communication tools, focused on clean UX and reliable real-time sync
 
-> 🔜 *Next up: integrating real-time features (Socket.io & WebRTC) and migrating select projects to Next.js for improved performance and SEO.*
+> 🔜 *Next up: expanding real-time features (Socket.io & WebRTC) across projects and migrating select apps to Next.js for improved performance and SEO.*
 
 ---
 
 ## 🧩 DSA Practice Log (C++)
 
-Actively solving problems to strengthen core computer science fundamentals:
+Core computer science fundamentals covered:
 
 | Topic | Focus Areas | Status |
 |---|---|---|
-| **Dynamic Programming** | Knapsack, LIS, LCS, Subset Sum, DP on Grids | 🔄 In Progress |
-| **Trees** | Binary Trees, BST, Traversals, Height/Diameter, LCA | 🔄 In Progress |
+| **Dynamic Programming** | Knapsack, LIS, LCS, Subset Sum, DP on Grids | ✅ Completed |
+| **Trees** | Binary Trees, BST, Traversals, Height/Diameter, LCA | ✅ Completed |
 | **Graphs** | BFS/DFS, Shortest Path *(upcoming)* | ⏳ Planned |
 
 *(Consider linking a `dsa-cpp` repo here with organized folders like `/DP` and `/Trees` so this table can link directly to your solutions.)*
@@ -79,10 +84,10 @@ Actively solving problems to strengthen core computer science fundamentals:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishubbk&show_icons=true&theme=radical" alt="Preetabh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=radical" alt="Preetabh's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishubbk&theme=radical" alt="Preetabh's streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetabh&theme=radical" alt="Preetabh's streak stats" />
 </p>
 
 ---
@@ -90,10 +95,10 @@ Actively solving problems to strengthen core computer science fundamentals:
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetabh-awasthi-070836290/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishubbk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preetabh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leptop_tz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishubbkup@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetabhup@gmail.com)
 
 📞 **Mobile:** +91 9452900378
 
