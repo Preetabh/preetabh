@@ -1,8 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5AF0&height=280&section=header&text=Preetabh%20Awasthi&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5AF0&height=260&section=header&text=Preetabh%20Awasthi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60"
     width="100%"
+    alt="header banner"
   />
 </p>
 
@@ -15,46 +16,47 @@ Full Stack Developer • BCA Student • MERN & Next.js Enthusiast
 <!-- Typing Animation -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&duration=3500&center=true&vCenter=true&width=850&color=00C2FF&lines=Full+Stack+Developer+🚀;Building+Production+Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+Prisma;Learning+Docker+%7C+Redis+%7C+System+Design;Always+Learning+Something+New+💡"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3500&center=true&vCenter=true&width=90%25&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Production+Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+Prisma;Learning+Docker+%7C+Redis+%7C+System+Design;Always+Learning+Something+New+%F0%9F%92%A1"
     alt="Typing SVG"
+    style="max-width: 100%;"
   />
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/preetabh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/preetabh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <a href="https://www.linkedin.com/in/preetabh-awasthi-070836290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/preetabh-awasthi-070836290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:preetabhup@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:preetabh.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <a href="https://twitter.com/leptop_tz">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://x.com/leptop_tz" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
 </p>
 
 <!-- Profile Stats -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=preetabh&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/preetabh?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/preetabh?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=preetabh&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/preetabh?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/preetabh?style=for-the-badge" alt="GitHub stars" />
 </p>
 
 <!-- Coding GIF -->
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/74038190/240885877-53b1d8d4-d0d4-43f7-84d3-6c3eaa7f7b63.gif"
-    width="650"
+    width="60%"
+    style="max-width: 500px;"
     alt="Coding Animation"
   />
 </p>
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 ## 🚀 About Me
 
 ```js
@@ -69,8 +71,6 @@ const preetabh = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
 - 🔭 Currently building **full-stack and real-time web applications**
 - 🌱 Learning **Docker, Redis, System Design, Microservices**
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma**
@@ -78,150 +78,120 @@ const preetabh = {
 - 🎯 Open to **collaborations, freelance projects & full-time opportunities**
 - 📫 Reach me at **preetabh.work@gmail.com**
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Frontend+%F0%9F%8E%A8;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%90%B3;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=90%25&lines=Frontend+%F0%9F%8E%A8;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%90%B3;Always+Learning+%F0%9F%93%9A" style="max-width: 100%;" />
 </p>
 
-**🎨 Frontend:**
+**🎨 Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,typescript,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,typescript,javascript&theme=dark" alt="frontend stack" />
 </p>
 
-**⚙️ Backend:**
+**⚙️ Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend stack" />
 </p>
 
-**🗄️ Database:**
+**🗄️ Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis&theme=dark" alt="database stack" />
 </p>
 
-**🐳 DevOps & Deployment:**
+**🐳 DevOps & Deployment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,nginx&theme=dark" alt="devops stack" />
 </p>
 
-**💻 Languages:**
+**💻 Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python&theme=dark" alt="languages" />
 </p>
 
-**🔧 Tools:**
+**🔧 Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark" alt="tools" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🚧 Currently Working On
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=🤖+AI+Code+Reviewer;💬+Slack+Clone+with+Real-time+Messaging;🛒+E-Commerce+Platform+with+Stripe;📊+Daily+DSA+Practice+on+LeetCode" />
-</p>
+- 🤖 **AI Code Reviewer** — AI-powered code review and bug detection · ☑️ Completed
+- 💬 **Slack Clone** — Real-time team collaboration app · 🟡 In Progress
+- 🛒 **E-Commerce Platform** — Full-featured store with payments & analytics · ☑️ Completed
+- 📊 **Daily DSA Practice** — Consistent algorithm & problem-solving · 🟢 Running
 
-| 🔨 Project | 📝 Description | ⚡ Status |
-|---|---|---|
-| 🤖 AI Code Reviewer | AI-powered code review and bug detection | ☑️ Completed |
-| 💬 Slack Clone | Real-time team collaboration app | 🟡 In Progress |
-| 🛒 E-Commerce Platform | Full-featured store with payments & analytics | ☑️ Completed |
-| 📊 Daily DSA Practice | Consistent algorithm & problem-solving | 🟢 Running |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<h3>🤖 AI Code Reviewer</h3>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 AI Code Reviewer</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20MongoDB-00C2FF?style=flat-square" />
-      </div>
-      <p align="center">
-        AI-powered code review and bug detection in-browser.<br/>
-        Real-time syntax highlighting with CodeMirror.<br/>
-        <b>Stack:</b> React, Node.js, MongoDB, CodeMirror, AI APIs
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 Slack Clone</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Socket.io%20%7C%20Redis-00C2FF?style=flat-square" />
-      </div>
-      <p align="center">
-        Team collaboration with channels, DMs & file sharing.<br/>
-        Real-time messaging powered by Socket.io & Redis.<br/>
-        <b>Stack:</b> MERN, Socket.io, Redis
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20PostgreSQL%20%7C%20Stripe-00C2FF?style=flat-square" />
-      </div>
-      <p align="center">
-        Online store with payments, admin panel & analytics.<br/>
-        Optimized with Redis caching and Prisma ORM.<br/>
-        <b>Stack:</b> Next.js, PostgreSQL, Prisma, Stripe, Redis
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Daily DSA Practice</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Ongoing-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20LeetCode%20%7C%20CodeChef-00C2FF?style=flat-square" />
-      </div>
-      <p align="center">
-        Consistent problem solving & algorithm practice.<br/>
-        Focused on arrays, trees, graphs & DP.<br/>
-        <b>Stack:</b> C++, LeetCode, CodeChef
-      </p>
-    </td>
-  </tr>
-</table>
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20MongoDB-00C2FF?style=flat-square)
 
-</div>
+AI-powered code review and bug detection in-browser, with real-time syntax highlighting via CodeMirror.
+**Stack:** React, Node.js, MongoDB, CodeMirror, AI APIs
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<h3>💬 Slack Clone</h3>
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-MERN%20%7C%20Socket.io%20%7C%20Redis-00C2FF?style=flat-square)
+
+Team collaboration app with channels, DMs & file sharing. Real-time messaging powered by Socket.io & Redis.
+**Stack:** MERN, Socket.io, Redis
+
+<br/>
+
+<h3>🛒 E-Commerce Platform</h3>
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20PostgreSQL%20%7C%20Stripe-00C2FF?style=flat-square)
+
+Online store with payments, an admin panel & analytics. Optimized with Redis caching and Prisma ORM.
+**Stack:** Next.js, PostgreSQL, Prisma, Stripe, Redis
+
+<br/>
+
+<h3>📊 Daily DSA Practice</h3>
+
+![Status](https://img.shields.io/badge/Status-Ongoing-green?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20LeetCode%20%7C%20CodeChef-00C2FF?style=flat-square)
+
+Consistent problem solving & algorithm practice, focused on arrays, trees, graphs & DP.
+**Stack:** C++, LeetCode, CodeChef
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetabh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetabh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8" width="46%" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=preetabh&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=FFFFFF" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=preetabh&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=FFFFFF" width="70%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetabh&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FF6B6B&area=true&hide_border=true&area_color=00C2FF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preetabh&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FF6B6B&area=true&hide_border=true&area_color=00C2FF" width="100%" alt="Activity graph" />
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetabh&theme=github_dark"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetabh&theme=github_dark" width="80%" alt="Profile summary" />
 </p>
-
 
 ## 🎯 2026 Goals
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Working+hard+every+day+to+achieve+my+goals+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&width=90%25&lines=Working+hard+every+day+to+achieve+my+goals+%F0%9F%92%AA" style="max-width: 100%;" />
 </p>
 
 | Goal | Progress |
@@ -232,53 +202,61 @@ const preetabh = {
 | ☁️ Cloud & DevOps Expertise | ![](https://geps.dev/progress/20) |
 | 🧠 DSA & Problem Solving | ![](https://geps.dev/progress/45) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+🚀;Always+open+to+collaborate+💡;Drop+a+message+anytime+📩" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=90%25&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+collaborate+%F0%9F%92%A1;Drop+a+message+anytime+%F0%9F%93%A9" style="max-width: 100%;" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/preetabh-awasthi-070836290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Preetabh_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/preetabh-awasthi-070836290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Preetabh_Awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/preetabh">
-    <img src="https://img.shields.io/badge/GitHub-preetabh-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/preetabh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-preetabh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:preetabh.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-preetabh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-preetabh.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<!--
+  Contribution snake — this only renders once you add the "platane/snk" GitHub Action
+  to a workflow in this repo (it generates the "output" branch below on a schedule).
+  Until that Action has run at least once, this image will be broken.
+  Setup guide: https://github.com/Platane/snk
+-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/preetabh/preetabh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 💼 Open for Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=🟢+Available+for+Internships;🟢+Open+to+Freelance+Projects;🟢+Seeking+Full-Time+Roles+in+Full+Stack+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=90%25&lines=%F0%9F%9F%A2+Available+for+Internships;%F0%9F%9F%A2+Open+to+Freelance+Projects;%F0%9F%9F%A2+Seeking+Full-Time+Roles+in+Full+Stack+Dev" style="max-width: 100%;" />
 </p>
 
 <p align="center">
   <a href="mailto:preetabh.work@gmail.com">
-    <img src="https://img.shields.io/badge/💼_Hire_Me-Available_Now-00C2FF?style=for-the-badge&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/💼_Hire_Me-Available_Now-00C2FF?style=for-the-badge&labelColor=0D1117" alt="Hire me" />
   </a>
   <a href="mailto:preetabh.work@gmail.com">
-    <img src="https://img.shields.io/badge/📩_Email_Me-preetabh.work@gmail.com-D14836?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📩_Email_Me-preetabh.work@gmail.com-D14836?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <br/>
   <em><b>I love connecting with different people!</b> Feel free to say hi 👋</em>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-```
-
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=72"
+    width="100%"
+    alt="footer banner"
+  />
+</p>
