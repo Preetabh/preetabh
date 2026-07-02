@@ -168,10 +168,7 @@ Consistent problem solving & algorithm practice, focused on arrays, trees, graph
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetabh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF&count_private=true" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetabh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&langs_count=8" width="46%" alt="Top languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=preetabh&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=FFFFFF" width="70%" alt="GitHub streak" />
