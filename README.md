@@ -14,11 +14,11 @@ Full Stack Developer • BCA Student • MERN & Next.js Enthusiast
 </h3>
 
 <!-- Typing Animation -->
-<p align="center">
+<p align="center" style="margin: 20px auto; width: 100%; max-width: 900px;">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3500&center=true&vCenter=true&width=90%25&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Production+Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+Prisma;Learning+Docker+%7C+Redis+%7C+System+Design;Always+Learning+Something+New+%F0%9F%92%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&duration=3500&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Production+Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express;MongoDB+%7C+PostgreSQL+%7C+Prisma;Learning+Docker+%7C+Redis+%7C+System+Design;Always+Learning+Something+New+%F0%9F%92%A1"
     alt="Typing SVG"
-    style="max-width: 100%;"
+    style="display: block; width: 100%; max-width: 900px; height: auto;"
   />
 </p>
 
@@ -45,15 +45,7 @@ Full Stack Developer • BCA Student • MERN & Next.js Enthusiast
   <img src="https://img.shields.io/github/stars/preetabh?style=for-the-badge" alt="GitHub stars" />
 </p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/240885877-53b1d8d4-d0d4-43f7-84d3-6c3eaa7f7b63.gif"
-    width="60%"
-    style="max-width: 500px;"
-    alt="Coding Animation"
-  />
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
@@ -83,7 +75,12 @@ const preetabh = {
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=90%25&lines=Frontend+%F0%9F%8E%A8;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%90%B3;Always+Learning+%F0%9F%93%9A" style="max-width: 100%;" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+%F0%9F%8E%A8;Backend+%E2%9A%99%EF%B8%8F;Databases+%F0%9F%97%84%EF%B8%8F;DevOps+%F0%9F%90%B3;Always+Learning+%F0%9F%93%9A"
+    alt="Typing SVG"
+    width="100%"
+    style="max-width: 700px; height: auto;"
+  />
 </p>
 
 **🎨 Frontend**
@@ -207,7 +204,12 @@ Consistent problem solving & algorithm practice, focused on arrays, trees, graph
 ## 🌍 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=90%25&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+collaborate+%F0%9F%92%A1;Drop+a+message+anytime+%F0%9F%93%A9" style="max-width: 100%;" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+collaborate+%F0%9F%92%A1;Drop+a+message+anytime+%F0%9F%93%A9"
+    alt="Typing SVG"
+    width="100%"
+    style="max-width:700px;height:auto;"
+  />
 </p>
 
 <p align="center">
@@ -228,16 +230,19 @@ Consistent problem solving & algorithm practice, focused on arrays, trees, graph
   Until that Action has run at least once, this image will be broken.
   Setup guide: https://github.com/Platane/snk
 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/preetabh/preetabh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
-</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ## 💼 Open for Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=90%25&lines=%F0%9F%9F%A2+Available+for+Internships;%F0%9F%9F%A2+Open+to+Freelance+Projects;%F0%9F%9F%A2+Seeking+Full-Time+Roles+in+Full+Stack+Dev" style="max-width: 100%;" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+Internships;%F0%9F%9F%A2+Open+to+Freelance+Projects;%F0%9F%9F%A2+Seeking+Full-Stack+Developer+Roles"
+    alt="Typing SVG"
+    width="100%"
+    style="max-width:700px;height:auto;"
+  />
 </p>
 
 <p align="center">
